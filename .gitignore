@@ -1,0 +1,6 @@
+#.flaskenv
+venv/
+__pycache__/
+app.db
+.DS_Store
+data/

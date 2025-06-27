@@ -1,0 +1,5 @@
+FLASK_APP=cashnest.py
+FLASK_ENV=production
+FLASK_DEBUG=false
+FLASK_RUN_HOST="127.0.0.1"
+FLASK_RUN_PORT="8000"
